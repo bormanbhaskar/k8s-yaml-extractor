@@ -1,7 +1,7 @@
 # k8s-yaml-extractor
 This bash script will extract the pods specification file into yaml format.
 
-This script can be useful when you have multiple kubernetes pods running under multiple namespaces. This script will extract all the pod's specefication files into yaml format and stor them inside a directory named with namespace.
+This script can be useful when you have multiple kubernetes pods running under multiple namespaces. This script will extract all the pod's specefication files into yaml format and store them inside a directory named with the namespace.
 
 **Uses:**
 
